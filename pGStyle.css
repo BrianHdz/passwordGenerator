@@ -24,6 +24,10 @@ hr {
     border: dashed 2px #dddddd;
 }
 
+#slider {
+    width: 80%;
+}
+
 .sweetButtons {
     border-radius: 30px;
     padding: 10px 45px;
