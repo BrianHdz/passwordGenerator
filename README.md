@@ -1,6 +1,6 @@
-# passwordGenerator
+# Password Generator
 
-![Password Generator Screenshot](/screenshot.png)
+![Password Generator Screenshot](screenshot.png)
 Link to the Password Generator - https://brianhdz.github.io/passwordGenerator/
 -------------------------------------------
 
