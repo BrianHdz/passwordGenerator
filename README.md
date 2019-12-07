@@ -1,6 +1,6 @@
-# Password Generator
+#Password Generator
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](screenShot.png)
 Link to the Password Generator - https://brianhdz.github.io/passwordGenerator/
 -------------------------------------------
 
