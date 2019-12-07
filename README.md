@@ -18,7 +18,7 @@ of you becoming "That Guy".
 
 Complexity
 -------------------------------------------
-First - Select how many characters on the slider
-Next - Answer the promts for password criteria
-THEN - A password is generated
+First - Select how many characters on the slider  
+Next - Answer the promts for password criteria  
+THEN - A password is generated  
 COPY - Click the copy button to apply to you clipboard
