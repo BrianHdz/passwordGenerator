@@ -1,15 +1,24 @@
 # passwordGenerator
-Week 3 Homework
 
-User Story
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+![Password Generator Screenshot](/screenshot.png)
 
-Business Context
-For companies that handle large amounts of sensitive data, weak passwords can pose a real security threat. An application that can generate strong passwords quickly and effortlessly saves employees time and ensures secure access to data.
+Practicality
+-------------------------------------------
+In our everyday lives we use passwords to protect our private
+information. The stronger the password the better. So you want
+a sophisticated password that you won't have to worry about 
+your accounts being hacked into.
 
-Acceptance Criteria
-GIVEN that a user needs a new, secure password
-WHEN prompted for password criteria
-THEN a password is generated
+For Work
+-------------------------------------------
+You don't want to be the employee who picks "password" as their password
+to secure all the company's sensitive data you have access to.
+Using a strong password generator will help dissolve the possibility 
+of you becoming "That Guy".
+
+Complexity
+-------------------------------------------
+First - Select how many characters on the slider
+Next - Answer the promts for password criteria
+THEN - A password is generated
+COPY - Click the copy button to apply to you clipboard

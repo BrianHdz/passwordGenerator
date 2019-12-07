@@ -15,9 +15,9 @@ var specialChars = (
     "!@#$%^&*-=+"
 );
 
-var password = "";
-var blank = "";
-var newPassword = "";
+var password = null;
+var blank = null;
+var newPassword = null;
 
 // Trying something new 
 // console.log("The slider value is " + slider.value);
